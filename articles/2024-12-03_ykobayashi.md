@@ -3,7 +3,7 @@ title: "自分たちのアジャイル開発の紆余曲折を振り返る"
 emoji: "🦔"
 type: "idea"
 topics: ["agile", "scrum"]
-published: false
+published: true
 published_at: 2024-12-03 10:00 # 公開する未来の日時を指定する
 publication_name: micin
 ---
